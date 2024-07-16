@@ -1,0 +1,12 @@
+PROGRAM DESIGN:
+
+Define:
+- pieces positions and piese colors with two arrays,
+  one for the piece and one for the color (distinguish the
+  basic pieces and queens)
+- notate the takes each by each, co in multiple capture
+  all the partial moves have to be notated
+- if any of the players can't move it's a draw
+
+optional:
+- add notation, although is mostly informal (consider adding notation)
